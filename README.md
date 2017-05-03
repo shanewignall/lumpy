@@ -4,9 +4,7 @@
 
 ### Setup
 
-```
 Download & install [Scrapy](https://doc.scrapy.org/en/latest/intro/install.html)
-```
 
 ### Run
 
